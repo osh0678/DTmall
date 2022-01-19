@@ -13,15 +13,3 @@ DT 개발팀 토이 프로젝트
 > 날짜_기능_상세기능(Optional)
 > - ex) 210309_board
 > - ex) 210309_board_write
-
-## 개발 가이드 
-- 상수
-> - 대문자 + SNAKE_CASE
-- 변수
-> - CamelCase
-- 클래스
-> - UpperCamel
-- Method 
-> - 동사 + 관련 job
-- 주석
-> - 날짜, 작업자, 역할
